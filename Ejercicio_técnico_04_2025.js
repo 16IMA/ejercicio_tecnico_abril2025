@@ -86,3 +86,12 @@ La función debe analizar el array de izquierda a derecha, de forma que si exist
 letras que se repiten de forma consecutiva el mismo número de veces, devolverá la
 letra que cumpla esta condición por primera vez.*/
 
+const letterArray = [o,b,j,e,t,o,o,n,l,a,p,r,o,p,i,e,d,a,d,l,e,t,t,e,r,q,u,e,i,n,d,i,q,u,e,l,a,l,e,t,r,a,q,u,e]
+
+function createObjCountLetter(array){
+  let letterObject = {
+    letter: {letter},
+    count: {count},
+  }
+  
+}
